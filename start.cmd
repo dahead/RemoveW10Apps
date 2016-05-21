@@ -1,3 +1,3 @@
 @echo off
 cls
-PowerShell -PSConsoleFile remove.ps
+PowerShell -PSConsoleFile remove.psc1
