@@ -1,3 +1,1 @@
-@echo off
-cls
-powershell -noexit "& ""remove.ps1"""
+Powershell.exe -executionpolicy remotesigned -File remove.ps1
