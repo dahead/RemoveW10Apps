@@ -1,3 +1,3 @@
 @echo off
 cls
-PowerShell -PSConsoleFile remove.psc1
+powershell -noexit "& ""remove.ps1"""
